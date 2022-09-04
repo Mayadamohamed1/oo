@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<meta charest="utf-8"/>
+<meta name="descraption"content="uuuuu"/>
+<head>
+<title>project</title>
+</head>
+<body>
+<img src="o.jpeg" style="width:900px;height:400px; border-radius:30px;"/>
+<br>
+<p style="background:#66c2ff;width:900px;color:#e600e6;"><b>sections of team are </b></p>
+<ul>
+<li style="color:#b30086">AC</li>
+</ul>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b> Academic Committe</b></p>
+<ul>
+<li style="color:#b30086">PR</li>
+</ul>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b> Human Resources</b></p>
+<ul>
+<li style="color:#b30086">HR</li>
+</ul>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b> Public Relations</b></p>
+<ul>
+<li style="color:#b30086">Media</li>
+</ul>
+<p><b><i> <span style ="font-size:20px;">a nice vedio about smart family </span></i></b></p>
+<video controls height="400" width="900" autoplay>
+<source src="y.mkv" type="video/mp4">
+</video>
+<p><i> <b> To Know the rest of details , <span style="color:#4d4dff">Click on the following link </span></b></i></p> 
+<a href="https://www"> <span style="font-size:20px">SMART FAMILY</span></a>
+<p><b><i>If you want to join us , fill the form</i></b></p>
+<form style="background:#66c2ff;width:900px;border-radius:10px;">
+<label>Name</label>
+<input type="text">
+<br><br>
+<label>address</label>
+<input type="text">
+<br><br>
+<label>faculty</label>
+<input type="text">
+<br><br>
+<input type="button" value="Submit">
+</form>
+
+
+
+</body>
+</html>
